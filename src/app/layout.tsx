@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     template: "%s | bugbook",
     default: "bugbook",
   },
-  description: "The social media app for powernerds",
+  description: "Social networking app for tech enthusiasts",
 };
 
 export default function RootLayout({

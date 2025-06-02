@@ -24,6 +24,7 @@ A full-stack social media app with infinite loading, optimistic updates, authent
 
 Watch the free tutorial on YouTube PART 1: https://www.youtube.com/watch?v=TyV12oBDsYI
 
+```
 Timestamps:
 0:00 - Project overview
 16:54 - Project & IDE setup (create-next-app, Shadcn UI, Prettier Tailwind plugin, Prisma, extensions)
@@ -43,9 +44,11 @@ Timestamps:
 6:08:50 - Follow feature (React Query optimistic updates)
 6:53:47 - Following feed (Shadcn UI customization)
 7:01:21 - User profile page (generateMetadata, loading.tsx, not-found.tsx)
+```
 
 Watch the free tutorial on YouTube PART 2: https://www.youtube.com/watch?v=1nKETjqJluI&t
 
+```
 Timestamps:
 0:00 - User tooltip & react-linkify-it
 30:26 - Update user profile & upload avatar (UploadThing, react-cropper, react-image-file-resizer)
@@ -61,6 +64,7 @@ Timestamps:
 7:20:36 - Google signin (OAuth2, Lucia)
 7:48:20 - Search feature (+ rewrites)
 8:01:51 - Deployment (Vercel, custom install command)
+```
 
 ![thumbnail 7](https://github.com/user-attachments/assets/686b37e4-3d16-4bc4-a7f2-9d152c3addf5)
 
